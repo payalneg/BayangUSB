@@ -2,6 +2,7 @@
 Use Arduino pro micro + nrf24l01 as receiver andd Joystick for fly simulators.
 
 Connection:
+
 D15 - SCLK
 
 D14 - MISO
